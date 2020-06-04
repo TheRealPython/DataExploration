@@ -1,7 +1,7 @@
 # DataExplorationProject
 
 ## Which Version
-Python 3.6.8
+Python 3.8.0
 
 ## Create the virtual python environment
 
@@ -17,10 +17,12 @@ copy in your shell:
 	
 ## Install requirements.txt 
 
-The requirements.txt is in the git.
+The requirements2.txt is in the git.
 copy to your shell after you started the virtual env:
-	` pip install -r requirements.txt `  
-	
+	` pip install -r requirements2.txt `  
+
+ONLY if CODE is not working try
+pip install -r requirements4.txt
 	
 ### Credits
 
